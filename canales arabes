@@ -33,7 +33,8 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist_w304237390_b850000_slen
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i0.wp.com/www.tunisieimmobiliertv.net/wp-content/uploads/2018/05/LOGOO.png" group-title="TúnezTV",tunisie immobilier tv
 http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8?checkedby:iptv.com
-
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i5.satexpat.com/cha/tn/ttn1-95x95.gif" group-title="TúnezTV",Télévision Tunisienne 1 — الوطنية 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615161035/ei/ahJFYMmOOti3xN8PjJaXsAE/ip/83.34.222.90/id/rLsTxQE_WLk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ2Prs1gQ9BbcY3mzwO_nXVQtKnWRs29D-HLpMsaBKnfAiEAhKiadJEYrln-NjBDFV7aOHPGs84CC297mO5_2GZHrrE%3D/file/index.m3u8
 
 
 
