@@ -182,7 +182,7 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i5.satexpat.com/cha/kw/almajlis-95x41.gif" group-title="Kuwait TV",Al Majlis — قناة المجلس
 https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i5.satexpat.com/cha/kw/ktv1-95x88.gif" group-title="Kuwait TV",Kuwait TV 1 — القناة الأولى
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1615133544&e=1615219944&cf=1615219944&h=70e6d7fda07824807cd8af5053e67b6e
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="Kuwait TV",KTV Ethraa — قناة إثراء الكويتية
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i5.satexpat.com/cha/kw/ktv_sport_95x84.gif" group-title="Kuwait TV",Kuwait TV Sports — دولة الكويت - القناة الرياضية
