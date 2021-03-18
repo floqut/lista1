@@ -33,7 +33,8 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i5.satexpat.com/cha/ae/mbc3_95x75.gif"Arabia Saudí",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i5.satexpat.com/cha/ae/spaceToon-95x53.gif" group-title="Emiratos Árabes Unidos",Spacetoon Arabic
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 
                                 
